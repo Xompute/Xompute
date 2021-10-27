@@ -1,8 +1,9 @@
 :swan: Hi, I’m @Xompute
 
-👀 I’m interested in data, nature, AI, ML, statistics, writing software and aim to make this world a better place to live in for everyone hopefully!
+I’m interested in data, nature, AI, ML, statistics, writing software and aim to make this world a better place to live in for everyone hopefully!
 
 <!---
+- 👀
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
