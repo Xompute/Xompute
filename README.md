@@ -1,6 +1,9 @@
-:swan: Hi, I’m @Xompute
+:swan: Hey Ditigal Traveler,
 
-I’m interested in data, nature, AI, ML, statistics, writing software and aim to make this world a better place to live in for everyone hopefully!
+I’m @Xompute and I’m interested in data, nature, AI, ML, statistics, writing software and aim to make this world a better place to live in for everyone in some, yet not entirely clear or crystalized, but a meaningful way.
+
+Cheers,
+Xompute
 
 <!---
 - 👀
